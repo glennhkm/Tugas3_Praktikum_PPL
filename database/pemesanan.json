@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "jersey_id": 2,
+    "Kuantitas": 2,
+    "Total Harga": 3000000
+  },
+  {
+    "id": 2,
+    "jersey_id": 2,
+    "Kuantitas": 1,
+    "Total Harga": 1500000
+  },
+  {
+    "id": 2,
+    "jersey_id": 2,
+    "Kuantitas": 1,
+    "Total Harga": 1500000
+  },
+  {
+    "id": 1742169062947,
+    "jersey_id": 5,
+    "Kuantitas": 1,
+    "Total Harga": 600000
+  },
+  {
+    "id": 1742169955755,
+    "jersey_id": 2,
+    "Kuantitas": 3,
+    "Total Harga": 4500000
+  }
+]
